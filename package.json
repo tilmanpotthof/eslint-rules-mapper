@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/valorkin/eslint-rules-mapper",
   "dependencies": {
-    "eslint": "^0.22.0",
-    "lodash": "^3.9.0",
-    "strip-json-comments": "^1.0.2"
+    "eslint": "^1.9.0",
+    "lodash": "^3.10.1",
+    "strip-json-comments": "^1.0.4"
   }
 }
